@@ -1,4 +1,13 @@
  #tic_tac_toe
+"""" 
+[x]:Draw a board
+[x]:Input player name 
+[]:Put a sign to each player
+[]: if user doesn't input between(1-9), direct them to previous state
+[]: Put sign to exact spot after taking user input 
+[]:Print board after each input
+[]:Calculate and display the result 
+"""
 
 instrucciones = """
 Este sera el tablero del gato
